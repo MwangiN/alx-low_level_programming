@@ -1,1 +1,1 @@
-#Contains directories of C files
+#Contains directories of C files and their workings
